@@ -5,7 +5,7 @@ This repository is created to simplify the setup of an NDB Cluster using Docker 
 This project is a fork of https://github.com/mlucasdasilva/cluster-mysql and has been modified to include several queries for generating binlog events.
 
 ### NDB Cluster Info
-<img src="./cluster_image.png" width="850px" height="300px" title="cluter_image.png"/>
+<img src="./cluster_image.png" width="850px" height="450px" title="cluter_image.png"/>
 
 
 - **Network [Docker Bridge (internal) network]**: 192.168.0.0/16 or 172.28.0.0/16
